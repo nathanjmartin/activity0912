@@ -8,4 +8,4 @@ Things you may want to cover:
 *Sample Ruby Project*
 *Ruby 2.2.*
 
-* ...
+* Ruby 2.5.2
